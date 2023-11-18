@@ -53,10 +53,12 @@
 
 
 ## Output:
+![245856780-67817fb4-5adf-453b-aef1-95aa96dae32c](https://github.com/vishnupriyaramesh17/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119393589/22b83f4e-0fbb-436a-9f01-7f27890259e4)
+### Velocity diagram and Acceleration diagram:
+![245856830-0a6b4877-b484-4b38-8309-4e5f30e35d1e](https://github.com/vishnupriyaramesh17/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119393589/2d98c6ed-9cb3-42a4-8659-5beb54258e43)
 
-
-### Name:
-### Register Number: 
+### Name: Vishnupriya R
+### Register Number: 212222110054
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
